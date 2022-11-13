@@ -13,3 +13,6 @@ Check options in the `assist.py` file:
 * Aim Locations
 * Aim Location Switching Button
 * Screensize (should be ok with default)
+
+HOW TO USE:
+press SHIFT with Fire button
