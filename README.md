@@ -15,4 +15,4 @@ Check options in the `assist.py` file:
 * Screensize (should be ok with default)
 
 HOW TO USE:
-press SHIFT with Fire button
+press SHIFT with Left Mouse button (Fire button)
