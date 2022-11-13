@@ -1,6 +1,6 @@
 # Battlefield V Aim Assist
 thank you Tormund
-mainly created by Tormund at 2019 and its not working current version of BFV, 
+mainly created by Tormund at 2019 and but its not working current version of BFV, 
 but we updated at 2022 and working fine on current version of BFV
 
 `pip install -r requirements.txt`
