@@ -4,7 +4,7 @@
 
 To start: `python assist.py` as Administrator
 OR
-run OK.batch
+run ok.bat
 
 Check options in the `assist.py` file:
 * Field of View
