@@ -3,6 +3,8 @@
 `pip install -r requirements.txt`
 
 To start: `python assist.py` as Administrator
+OR
+run OK.batch
 
 Check options in the `assist.py` file:
 * Field of View
