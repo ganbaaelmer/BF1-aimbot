@@ -22,4 +22,4 @@ HOW TO USE:
 
 1. open BFV game
 
-2. press SHIFT with Left Mouse button (Fire button)
+2. press SHIFT key with Left Mouse button (Fire button)
