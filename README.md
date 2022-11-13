@@ -19,4 +19,7 @@ Check options in the `assist.py` file:
 * Screensize (should be ok with default)
 
 HOW TO USE:
-press SHIFT with Left Mouse button (Fire button)
+
+1. open BFV game
+
+2. press SHIFT with Left Mouse button (Fire button)
