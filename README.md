@@ -7,7 +7,7 @@ but we updated at 2022 and working fine on current version of BFV
 
 To start: `python assist.py` as Administrator
 OR
-run ok.bat
+run `ok.bat`
 as Administrator
 
 Check options in the `assist.py` file:
